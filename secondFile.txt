@@ -1,7 +1,7 @@
 1.Java
 2.C#
-3.Python
-4.JavaScript
+3.Python Flask
+4.JavaScript React
 5.Ruby
 6.C++
 7.Groovy
