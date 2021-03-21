@@ -2,8 +2,8 @@
 2.BMW
 3.Mercedes
 4.Skoda Octavia RS
-5.Honda
-6.Subaru
+5.Honda Civic
+6.Subaru Impreza
 7.Lexus
 8.Mazda RX-8
 9.Ford
